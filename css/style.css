@@ -65,10 +65,10 @@ p {
     margin-bottom: 100px;
     display: flex;
 }
-.cook{
+.cook {
     display: flex;
-    margin-left: 5%;
-    padding: 2%;
+    margin-left: 4%;
+    margin-right: 5%;
 }
 .control-box {
     width: 80%;
@@ -87,4 +87,38 @@ p {
     margin-bottom: 25px;
     margin-right: 14px;
     text-align: justify;
+}
+.subscribe {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+    margin-top: 138px;
+    border: 0px solid;
+    border-radius: 16px;
+    margin-bottom: 50px;
+    box-shadow: 1px 2px 19px;
+}
+h3.subs-hding {
+    padding-top: 50px;
+    font-size: -webkit-xxx-large;
+}
+p.subs-para {
+    margin-bottom: 75px;
+}
+footer {
+    height: 250px;
+    width: 100%;
+    background-color: #0B0D17;
+}
+.foot{
+    text-align: center;
+}
+#fo-para{
+    color: white;
+}
+#fo-head{
+    margin-top: 20px;
 }
