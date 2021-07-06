@@ -109,14 +109,14 @@ p.subs-para {
     margin-bottom: 75px;
 }
 footer {
-    height: 250px;
+    height: 320px;
     width: 100%;
     background-color: #0B0D17;
 }
 .foot{
     text-align: center;
 }
-#fo-para{
+.fo-para{
     color: white;
 }
 #fo-head{
