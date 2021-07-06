@@ -62,9 +62,29 @@ p {
     padding-left: 192px;
 }
 .header {
-    margin-bottom: 20px;
+    margin-bottom: 100px;
     display: flex;
 }
-.about{
-    
+.cook{
+    display: flex;
+    margin-left: 5%;
+    padding: 2%;
+}
+.control-box {
+    width: 80%;
+    padding-left: 34px;
+    margin-left: 40px;
+    border: 0px solid;
+    border-radius: 18px;
+    box-shadow: 1px 1px 15px;
+    padding-top: 25px;
+}
+.recepie-para{
+    text-align: center;
+}
+.cook-para {
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-right: 14px;
+    text-align: justify;
 }
